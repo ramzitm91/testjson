@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "DKI JAKARTA",
+            "total": 2
+        },
+        {
+            "id": 2,
+            "name": "JAWA BARAT",
+            "total": 3
+        },
+        {
+            "id": 3,
+            "name": "JAWA TIMUR",
+            "total": 3
+        },
+        {
+            "id": 4,
+            "name": "JAWA TENGAH",
+            "total": 3
+        },
+        {
+            "id": 5,
+            "name": "JAWA UTARA",
+            "total": 3
+        },
+        {
+            "id": 6,
+            "name": "JAWA SELATAN",
+            "total": 3
+        },
+        {
+            "id": 7,
+            "name": "JAWA TENGGARA",
+            "total": 3
+        },
+        {
+            "id": 8,
+            "name": "JAWA TIMUR LAUT",
+            "total": 3
+        }
+    ],
+    "totalCount": 8
+}
